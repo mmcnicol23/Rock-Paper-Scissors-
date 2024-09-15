@@ -1,0 +1,15 @@
+C:\Users\Maria\Desktop\Repos\RockPaperScissorsGame\RockPaperScissorsGame\bin\Debug\net8.0\RockPaperScissorsGame.exe
+C:\Users\Maria\Desktop\Repos\RockPaperScissorsGame\RockPaperScissorsGame\bin\Debug\net8.0\RockPaperScissorsGame.deps.json
+C:\Users\Maria\Desktop\Repos\RockPaperScissorsGame\RockPaperScissorsGame\bin\Debug\net8.0\RockPaperScissorsGame.runtimeconfig.json
+C:\Users\Maria\Desktop\Repos\RockPaperScissorsGame\RockPaperScissorsGame\bin\Debug\net8.0\RockPaperScissorsGame.dll
+C:\Users\Maria\Desktop\Repos\RockPaperScissorsGame\RockPaperScissorsGame\bin\Debug\net8.0\RockPaperScissorsGame.pdb
+C:\Users\Maria\Desktop\Repos\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net8.0\RockPaperScissorsGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria\Desktop\Repos\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net8.0\RockPaperScissorsGame.AssemblyInfoInputs.cache
+C:\Users\Maria\Desktop\Repos\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net8.0\RockPaperScissorsGame.AssemblyInfo.cs
+C:\Users\Maria\Desktop\Repos\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net8.0\RockPaperScissorsGame.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Repos\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net8.0\RockPaperScissorsGame.sourcelink.json
+C:\Users\Maria\Desktop\Repos\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net8.0\RockPaperScissorsGame.dll
+C:\Users\Maria\Desktop\Repos\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net8.0\refint\RockPaperScissorsGame.dll
+C:\Users\Maria\Desktop\Repos\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net8.0\RockPaperScissorsGame.pdb
+C:\Users\Maria\Desktop\Repos\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net8.0\RockPaperScissorsGame.genruntimeconfig.cache
+C:\Users\Maria\Desktop\Repos\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net8.0\ref\RockPaperScissorsGame.dll
